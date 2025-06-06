@@ -40,4 +40,4 @@
 ```bash
 sudo apt install nmap
 pip install PyQt6
-python3 nmap_gui.py
+python3 nmap.py
