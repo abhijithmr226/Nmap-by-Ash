@@ -2,7 +2,7 @@
 
 **Nmap by Ash** is a modern, sleek, and highly capable graphical user interface (GUI) built using **PyQt6**, designed to make network scanning easier, more accessible, and powerful. It wraps around the Nmap CLI engine with complete control over all major and advanced scanning features.
 
-![banner](assets/banner.png) <!-- Replace with your banner path -->
+![banner](https://i.ibb.co/cKLh70bW/e3f14046-8b6f-4efa-987d-2b9f1fb4c3eb.png) <!-- Replace with your banner path -->
 
 ## ✨ Features
 
